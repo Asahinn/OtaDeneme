@@ -1,2 +1,2 @@
-Selam alican 
-hersey alindi
+HW=V1.001
+SW=V1.003
